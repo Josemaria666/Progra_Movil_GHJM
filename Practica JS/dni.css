@@ -1,0 +1,10 @@
+body{
+background-color: rgb(185, 185, 185);
+}
+.numero{
+display: flex;
+align-items: center;
+border-color: aliceblue;
+height: 500px;
+width: 500px;
+}
